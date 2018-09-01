@@ -2,7 +2,6 @@
 
 > Vue.js 打造高级实战——音乐 App
 
-#### [在线演示]()
 
 - 技术栈
   - > html5 + web存储（localStorage）+ css3 + vue2.5 + vuex + vue-router + webpack + ES6/7 + better-scroll（类似swiper滚动插件） + jsonp + node
@@ -152,19 +151,19 @@
     
 ## 项目截图
 ### 主页
-![主页](https://github.com/wjfstruggle/QQ-MusicApp/tree/master/static/1.png)
+![主页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/1.png)
 
 ### 详情页
-![主页](https://github.com/wjfstruggle/QQ-MusicApp/tree/master/static/2.png)
+![主页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/2.png)
 
 ### 歌手
-![主页](https://github.com/wjfstruggle/QQ-MusicApp/tree/master/static/3.png)
+![主页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/3.png)
 
 ### 主可取播放页
-![主页](https://github.com/wjfstruggle/QQ-MusicApp/tree/master/static/4.png)
+![主页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/4.png)
 
 ### 排行榜
-![主页](https://github.com/wjfstruggle/QQ-MusicApp/tree/master/static/5.png)
+![主页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/5.png)
 
 ### 安装与运行
 
