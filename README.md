@@ -169,7 +169,7 @@
 ### 安装与运行
 
 ``` bash
-git clone https://github.com/wjfstruggle/QQ-MusicApp
+git clone https://github.com/wjfstruggle/vue-music
 
 cd vue-music
 
