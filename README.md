@@ -142,11 +142,13 @@
 │       ├── mutations.js
 │       └── state.js
 └── static
-    ├── 1.png
-    ├── 2.png
-    ├── 3.png
-    ├── 4.png
-    └── 5.png
+      |
+      images
+        ├── 1.png
+        ├── 2.png
+        ├── 3.png
+        ├── 4.png
+        └── 5.png
  ```
     
 ## 项目截图
@@ -154,16 +156,16 @@
 ![主页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/1.png)
 
 ### 详情页
-![主页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/2.png)
+![详情页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/2.png)
 
 ### 歌手
-![主页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/3.png)
+![歌手](https://github.com/wjfstruggle/vue-music/blob/master/static/images/3.png)
 
-### 主可取播放页
-![主页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/4.png)
+### 歌曲播放页
+![歌曲播放页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/4.png)
 
 ### 排行榜
-![主页](https://github.com/wjfstruggle/vue-music/blob/master/static/images/5.png)
+![排行榜](https://github.com/wjfstruggle/vue-music/blob/master/static/images/5.png)
 
 ### 安装与运行
 
